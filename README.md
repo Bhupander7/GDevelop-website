@@ -1,8 +1,8 @@
-# GDEVELOP PROOGRAAMMING WEBSITE
+# TropicGAMEdevelop 
 
-This is the repository for the new website for **[ GDEVELOP PROOGRAAMMING WEBSITE](https://gdevelop-app.com)**, the open source game creator requiring no programming skills.
+This is the repository for the new website for **[TropicGAMEdevelop ] (https://gdevelop-app.com)**, the open source game creator requiring no programming skills.
 
-Any contribution, design or wording enhancements is welcome! Open issues if you having anything to say or, even better, submit a pull request. You can also discuss with the community on **[ GDEVELOP PROOGRAAMMING WEBSITE](http://forum.compilgames.net)**.
+Any contribution, design or wording enhancements is welcome! Open issues if you having anything to say or, even better, submit a pull request. You can also discuss with the community on **[TropicGAMEdevelop  ](http://forum.compilgames.net)**.
 
 If you want to **translate the website to your language**, just go on [the Crowdin translation project](https://crowdin.com/project/gdevelop-website)!
 
